@@ -1,7 +1,7 @@
 {
-    "name": "Bharat Agarwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Ashish Kumar",
+    "title": "Studing Computer Science engineering at lovely professional university",
+    "intro": "tech enthusiast, learner, geek",
     "skills": [{
             "title": "Skill 1",
             "rating": "90"
@@ -19,8 +19,8 @@
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Lovely professional university",
+        "phone": "8619583393",
+        "email": "ashishkumarbhs@gmail.com"
     }
 }
