@@ -1,22 +1,16 @@
 {
     "name": "Ashish Kumar",
-    "title": "Studying Computer Science engineering at lovely professional university",
-    "intro": "tech enthusiast, learner, geek",
+    "title": "Studying CSE at lovely professional university, Punjab",
+    "intro": "geek, techie",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
-        },
-        {
-            "title": "Skill 2",
-            "rating": "97"
-        },
-        {
-            "title": "Skill 3",
+            "title": "C",
             "rating": "85"
-        },{
-            "title": "Skill 1",
+        },
+        {
+            "title": "HTML",
             "rating": "90"
-        }
+        },
+       
     ],
     "contact": {
         "location": "Lovely professional university",
